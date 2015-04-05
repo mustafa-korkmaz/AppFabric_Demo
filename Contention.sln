@@ -1,7 +1,15 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contention", "Contention\Contention.csproj", "{69B5A94E-AD8C-4BB9-890E-D6E15A92765E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E7B7D010-78C3-4697-A00B-DA7D82138FD9}"
+	ProjectSection(SolutionItems) = preProject
+		Performanslı Kodlama.pptx = Performanslı Kodlama.pptx
+		SQL Server  ile Yüksek Performanslı Programlama.pptx = SQL Server  ile Yüksek Performanslı Programlama.pptx
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
